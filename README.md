@@ -28,4 +28,4 @@ The example output image of the unwrapped 806-2RS ball bearing.
 
 # Performance
 * Tested on Intel Core i7-9750H 2.6GHz - 16GB
-![Performance](Algorithm Chrono Measurement - Intel Core i7-9750H 2.6GHz - 16GB)
+![Performance](Algorithm%20Chrono%20Measurement%20-%20Intel%20Core%20i7-9750H%202.6GHz%20-%2016GB.png)
