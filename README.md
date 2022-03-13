@@ -2,6 +2,8 @@
 
 Linear polar unwrap implemented with **NumCPP** for Machine/Computer vision. A linear polar unwrap is a 2D geometric transformation that remaps an image from polar coordinate space to cartesian space. 
 
+See **Python** prototype implementation: [Link](https://github.com/wh1tewolfxx/Python-Polar-Unwrap)
+
 OpenCV Reference: [warpPolar()](https://docs.opencv.org/3.4/da/d54/group__imgproc__transform.html#ga49481ab24fdaa0ffa4d3e63d14c0d5e4)
 
 This implementation of the polar unwrap use annulus region (Ring/Donut shape region). 
@@ -11,6 +13,7 @@ This implementation of the polar unwrap use annulus region (Ring/Donut shape reg
 * outer_radius - The distance in pixels from the center to the outer part of the annulus.
 * start_angle - The starting angle of the unwrap defined in radians.
 * end_angle - The ending angle of the unrap defined in radians.
+
 
 
 
